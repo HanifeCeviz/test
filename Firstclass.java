@@ -1,2 +1,3 @@
 // welcome everbady
-//yeni comment ekledim.
+//yeni commit
+//yeni commit yaptim main branch icin
